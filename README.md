@@ -2,7 +2,7 @@
 
 ## Projektbeschreibung
 Vorhersagemodell in CRISP-DM für Flugverspätungen innerhalb eines Betriebstages basierend auf historischen Flugdaten. 
-Das Modell liefert präzise Prognosen für alle Flüge eines Tages und unterstützt Planungsentscheidungen.
+Das Modell liefert präzise Prognosen für alle Flüge eines Tages in Streamlit und unterstützt Planungsentscheidungen.
 
 ## Installation
 1. Repository klonen:
