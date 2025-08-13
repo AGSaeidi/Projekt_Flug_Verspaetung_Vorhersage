@@ -12,7 +12,9 @@ Das Modell liefert präzise Prognosen für alle Flüge eines Tages und unterstü
 2. Virtuelle Umgebung erstellen:
 
 python -m venv venv
+
 source venv/bin/activate  # macOS/Linux
+
 venv\Scripts\activate     # Windows
 
 3. Abhängigkeiten installieren:
@@ -20,6 +22,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 Nutzung der Streamlit-App
+
 Im Projektverzeichnis Streamlit starten:
 
 streamlit run app.py
