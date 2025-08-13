@@ -25,7 +25,7 @@ Nutzung der Streamlit-App
 
 Im Projektverzeichnis Streamlit starten:
 
-streamlit run app.py
+streamlit run Streamlit_Development_App.py
 
 Im Browser öffnet sich die Benutzeroberfläche.
 Benutzer kann Tail auswählen, Szenarien vergleichen und Verspätungen visualisieren.
