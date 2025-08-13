@@ -8,6 +8,8 @@ Das Modell liefert präzise Prognosen für alle Flüge eines Tages und unterstü
 1. Repository klonen:
    ```bash
    git clone https://github.com/AGSaeidi/Projekt_Flug_Verspaetung_Vorhersage.git
+
+   cd Projekt_Flug_Verspaetung_Vorhersage
    
 2. Virtuelle Umgebung erstellen:
 
@@ -23,7 +25,10 @@ pip install -r requirements.txt
 
 Nutzung der Streamlit-App
 
-Im Projektverzeichnis Streamlit starten:
+Im Projektverzeichnis Streamlit starten (Stellen sicher, dass Sie sich im Projektverzeichnis befinden):
+Projekt_Flug_Verspaetung_Vorhersage/
+
+ Die App starten:
 
 streamlit run Streamlit_Development_App.py
 
