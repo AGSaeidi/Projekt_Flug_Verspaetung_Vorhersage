@@ -1,4 +1,4 @@
-# Projekt_Flug_Verspaetung_Vorhersage
+i# Projekt_Flug_Verspaetung_Vorhersage
 
 ## Projektbeschreibung
 Vorhersagemodell in CRISP-DM für Flugverspätungen innerhalb eines Betriebstages basierend auf historischen Flugdaten. 
@@ -37,4 +37,8 @@ Benutzer kann Tail auswählen, Szenarien vergleichen und Verspätungen visualisi
 
 Weiterführende Hinweise: 
 Echtzeitdaten (Wetter, ATC) könnten integriert werden.
+<<<<<<< HEAD
 Zusätzliche Features wie Crew-Wechsel oder Gate-Informationen verbessern Prognosen.
+=======
+Zusätzliche Features wie Crew-Wechsel oder Gate-Informationen verbessern Prognosen.
+>>>>>>> 13fe60d (Save current changes before pull)
